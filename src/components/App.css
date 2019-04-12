@@ -1,0 +1,30 @@
+* {
+margin: 0px;
+padding:0px;
+box-sizing:border-box;
+}
+
+.App {
+
+  padding:20px;
+  margin:10px;
+  text-align: center;
+}
+
+.flexy {
+  padding:20px;
+  margin:auto;
+  border:1px solid #eee;
+  box-shadow:0px 2px 2px #ccc;
+  display:flex;
+  width :80%;  
+}
+.Buttons{
+  float:right;
+}
+button {
+  margin-left:10px;
+  padding:20px;
+  cursor:pointer;
+
+}
